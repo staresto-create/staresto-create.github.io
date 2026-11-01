@@ -2,3 +2,10 @@ User-agent: *
 Allow: /
 
 Sitemap: https://staresto-create.github.io/JCEE-vocab-questions/sitemap.xml
+Sitemap: https://staresto-create.github.io/essay-prompts/sitemap.xml
+Sitemap: https://staresto-create.github.io/reading-comprehension/sitemap.xml
+Sitemap: https://staresto-create.github.io/discourse-structure/sitemap.xml
+Sitemap: https://staresto-create.github.io/passage-completion/sitemap.xml
+Sitemap: https://staresto-create.github.io/zhikao-cloze-test/sitemap.xml
+Sitemap: https://staresto-create.github.io/grammar-cloze-test/sitemap.xml
+Sitemap: https://staresto-create.github.io/mixed-format/sitemap.xml
