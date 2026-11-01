@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://staresto-create.github.io/JCEE-vocab-questions/sitemap.xml
